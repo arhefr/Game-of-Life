@@ -38,7 +38,7 @@
 >   go run cmd/main.go
 >   ```
 > + ```shell
->   go run cmd/main.go -width 200 -height 150 -chance 10
+>   go run cmd/main.go -width 50 -height 50 -chance 10
 >   ```
 
 >[!TIP]
