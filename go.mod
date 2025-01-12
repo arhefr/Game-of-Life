@@ -1,4 +1,4 @@
-module Game_of_Life
+module Game-of-Life-main
 
 go 1.23.0
 
